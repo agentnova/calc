@@ -1,2 +1,2 @@
 # calc
-😅My first bash script
+My first python script😄
