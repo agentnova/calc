@@ -1,5 +1,5 @@
 while True:
-        #coded by mess hecker agent_nova
+        
 
         from pyfiglet import Figlet
         f = Figlet(font='slant')
